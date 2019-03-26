@@ -1,0 +1,21 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="$USER_HOME$/.rbenv/versions/2.5.1/bin/ruby:BASE_20" value="0.2.3.beta3" />
+    <property name="$USER_HOME$/.rbenv/versions/2.5.1/bin/ruby:IDE" value="0.7.0.beta7" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6276958" />
+    <property name="KEYMAP" value="split&#10;split ver" />
+    <property name="PluginConfigurable.selectionTab" value="2" />
+    <property name="Ruby.initialConfigurationShown" value="true" />
+    <property name="RubyMine.full.reindex.required" value="1" />
+    <property name="SettingsSearchHistory" value="raise_error" />
+    <property name="TrendingPluginsSearchHistory" value="repository" />
+    <property name="evlsprt3.183" value="13" />
+    <property name="file.gist.reindex.count" value="5748" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="idea.background.editor" value="$USER_HOME$/Desktop/unnamed.jpg,15,scale,center" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="org.intellij.images.editor.actions.BackgroundImageDialog#recent" value="" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
