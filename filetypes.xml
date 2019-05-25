@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="dmmlog_201902.rb" type="PLAIN_TEXT" />
       <mapping pattern="sample1" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
