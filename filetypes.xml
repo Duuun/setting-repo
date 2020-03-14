@@ -4,6 +4,7 @@
       <mapping pattern="20191005100231_create_prefecture" type="PLAIN_TEXT" />
       <mapping pattern="dmmlog_201902.rb" type="PLAIN_TEXT" />
       <mapping pattern="sample1" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="20191005100231_create_prefecture.rb" type="PLAIN_TEXT" />
       <mapping pattern="tag_on_post.rb" type="PLAIN_TEXT" />
       <mapping pattern="tag_on_post" type="PLAIN_TEXT" />
